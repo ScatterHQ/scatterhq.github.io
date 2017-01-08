@@ -10,3 +10,4 @@ ScatterHQ will maintain a [fork of Flocker](https://github.com/ScatterHQ/flocker
 The following programmers are now available for Flocker consultancy and support:
 
 * [Richard Wall](https://github.com/wallrj)
+* [Jean-Paul Calderone](https://github.com/exarkun)
