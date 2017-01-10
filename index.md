@@ -12,3 +12,4 @@ The following programmers are now available for Flocker consultancy and support:
 * [Richard Wall](https://github.com/wallrj)
 * [Tom Prince](https://github.com/tomprince)
 * [Jean-Paul Calderone](https://github.com/exarkun)
+* [Adam Dangoor](https://github.com/adamtheturtle)
