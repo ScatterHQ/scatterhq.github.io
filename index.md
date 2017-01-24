@@ -16,3 +16,40 @@ A small group of the original Flocker engineering team are available for consult
 We'll be delighted to work with you on architecture consultation, installation and configuration, training or support.
 
 [Email us](mailto:flocker-team@scatterhq.com) if we can help.
+
+## Paid Plans
+
+### Startup
+
+* Weekday support by email
+* Technical account manager
+
+Starts at $1500 / month per 50 nodes.
+
+We also offer training and consultancy for architecting your microservices application platform.
+
+[Get in touch](mailto:flocker-team@scatterhq.com) for more details.
+
+### Enterprise
+
+* 24/7 support by phone, Skype, Hangouts and email
+* Technical account manager
+* Priority bug support
+* Project support
+* Custom feature development
+* Training
+
+[Get in touch](mailto:flocker-team@scatterhq.com) for more details.
+
+### Feature Development
+
+As well as support, we offer development of custom features and bug fixes.
+
+Examples of features that we would love to develop include:
+
+* Cross region data migration
+* Production ready integration with Mesosphere
+* Production ready integration with Kubernetes
+* Dataset snapshot and restore
+
+[Get in touch](mailto:flocker-team@scatterhq.com) for more details.
