@@ -19,10 +19,19 @@ We'll be delighted to work with you on architecture consultation, installation a
 
 ## Paid Plans
 
+### Basic
+
+* Support ongoing development
+
+Starts at $500 / month.
+
+[Get in touch](mailto:flocker-team@scatterhq.com) for more details.
+
 ### Startup
 
 * Weekday support by email
 * Technical account manager
+* Support ongoing development
 
 Starts at $1500 / month per 50 nodes.
 
@@ -36,8 +45,9 @@ We also offer training and consultancy for architecting your microservices appli
 * Technical account manager
 * Priority bug support
 * Project support
-* Custom feature development
 * Training
+* Custom feature development
+* Support ongoing development
 
 [Get in touch](mailto:flocker-team@scatterhq.com) for more details.
 
