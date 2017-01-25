@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Jekyll build output
+_site/
+
+# Gem lockfile
+Gemfile.lock

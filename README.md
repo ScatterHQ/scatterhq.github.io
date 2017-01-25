@@ -7,7 +7,12 @@ To modify the website, please:
 
 * Create a fork and branch, and
 * add your proposed content.
-* Test your changes by [installing and running Jekyll locally](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
+* Test your changes by running
+```sh
+bundle install
+bundle exec jekyll serve
+```
+  and then browsing http://localhost:4000/
 * Open a pull request, and
 * assign a reviewer in GitHub.
 
