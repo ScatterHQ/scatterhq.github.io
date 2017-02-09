@@ -28,7 +28,7 @@ Starts at $1500 / month per 50 nodes.
 
 We also offer training and consultancy for architecting your microservices application platform.
 
-[Get in touch](mailto:flocker-team@scatterhq.com) for more details.
+[Get in touch](mailto:flocker-team@scatterhq.com) or [schedule a chat](https://calendly.com/scatterhq/flocker/) for more details.
 
 ### Enterprise
 
@@ -39,7 +39,7 @@ We also offer training and consultancy for architecting your microservices appli
 * Custom feature development
 * Training
 
-[Get in touch](mailto:flocker-team@scatterhq.com) for more details.
+[Get in touch](mailto:flocker-team@scatterhq.com) or [schedule a chat](https://calendly.com/scatterhq/flocker/) for more details.
 
 ### Feature Development
 
